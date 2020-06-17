@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	CookieName      = "R_SESS"
+	CookieName      = "EDGE_SESS"
 	AuthHeaderName  = "Authorization"
 	AuthValuePrefix = "Bearer"
 	BasicAuthPrefix = "Basic"
